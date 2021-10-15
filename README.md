@@ -1,4 +1,4 @@
-# Personal-Financial-Statement
+# Personal-Financial-Planning
 This Excel template will support you: 
 - Build the Monthly Forecast Cash flow include estimated Spending/Income for a year by month.
 - Manage/Track your daily Spending/Income transactions and summary all of them to provide a general picture of month to date and year to date cash flow.
